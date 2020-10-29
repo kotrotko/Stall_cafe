@@ -1,0 +1,156 @@
+{
+  "@@last_modified": "2019-06-27T23:38:38.868199",
+  "opened": "Öppnat",
+  "@opened": {
+    "description": "Kaféet är öppet nu for home page",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "closed": "Stängt",
+  "@closed": {
+    "description": "Kaféet är stängt nu for home hage",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "callUs": "Ringa oss:",
+  "@callUs": {
+    "description": "Ringa oss button text for home page",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "welcome": "Välkommen",
+  "@welcome": {
+    "description": "Hälsning for home hage",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "faceBook": "Följ oss på Facebook:",
+  "@faceBook": {
+    "description": "fb for home hage",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "texMexCousine": "Tex Mex-köket",
+  "@texMexCousine": {
+    "description": "drawer header",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "menu": "Meny",
+  "@meny": {
+    "description": "drawer menu",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "order": "Beställa",
+  "@order": {
+    "description": "drawer order",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "dishDescription": "Beskrivningar på maträtter",
+  "@order": {
+    "description": "drawer dish description",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "touchAHeart": "rör ett hjärta och gör din beställning",
+  "@touchAHeart": {
+    "description": "drawer dish description",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "now": "nu",
+  "@now": {
+    "description": "menu now",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "myOrder": "Min Beställning",
+  "@myOrder": {
+    "description": "order my order",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "submit": "SKICKA IN",
+  "@submit": {
+    "description": "order submit",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "cancel": "AVBRYT",
+  "@cancel": {
+    "description": "order cancel",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "dishes": "Maträtter",
+  "@dishes": {
+    "description": "dish description dishes",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "chile": "Chili sås, tortillor, bönor, lök, cheddar",
+  "@chile": {
+    "description": "dish main ingredients",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "optionally": "Optionally:",
+  "@optionally": {
+    "description": "dish description optionally",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "beef": "nötkött, kyckling, vegetarisk",
+    "@beef": {
+      "description": "dish description options",
+      "type": "text",
+      "placeholders": {}
+    },
+
+  "orderNow": "Beställ nu",
+  "@orderNow": {
+    "description": "dish order now",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "allergens": "Allergener",
+  "@allergens": {
+    "description": "dish allergens",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "lactose": "Lactos",
+  "@lactose": {
+    "description": "dish allergens lactose",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "price": "Pris:",
+  "@price": {
+    "description": "dish allergens lactose",
+    "type": "text",
+    "placeholders": {}
+  }
+}

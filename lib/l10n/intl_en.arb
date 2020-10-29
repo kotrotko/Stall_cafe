@@ -1,0 +1,156 @@
+{
+  "@@last_modified": "2020-10-28T22:25:57.081431",
+  "opened": "Opened",
+  "@opened": {
+    "description": "Cafe is opened now for home page",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "closed": "Closed",
+  "@closed": {
+    "description": "Cafe is closed now for home page",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "callUs": "Call us:",
+  "@callUs": {
+    "description": "Call us button text for home page",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Greetings for home page",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "faceBook": "Follow us on facebook:",
+  "@faceBook": {
+    "description": "fb for home page",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "texMexCousine": "TexMex cousine",
+  "@texMexCousine": {
+    "description": "drawer header",
+    "type": "text",
+    "placeholders": {}
+    },
+
+  "menu": "Menu",
+  "@menu": {
+    "description": "drawer menu",
+    "type": "text",
+    "placeholders": {}
+    },
+
+  "order": "Order",
+  "@order": {
+    "description": "drawer order",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "dishDescription": "Dish Description",
+  "@dishDescription": {
+    "description": "drawer dish description",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "touchAHeart": "touch a heart and make your order",
+  "@touchAHeart": {
+    "description": "menu touch a heart",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "now": "now",
+  "@now": {
+    "description": "menu now",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "myOrder": "My Order",
+  "@myOrder": {
+    "description": "order my order",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "submit": "SUBMIT",
+  "@submit": {
+    "description": "order submit",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "cancel": "CANCEL",
+  "@cansel": {
+    "description": "order cancel",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "dishes": "Dishes",
+  "@dishes": {
+    "description": "dish description dishes",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "chile": "Chile sauce, tortillas, beans, onion, cheddar",
+  "@chile": {
+    "description": "dish main ingredients",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "optionally": "Optionally",
+  "@optionally": {
+    "description": "dish description optionally",
+    "type": "text",
+    "placeholders": {}
+  },
+
+   "beef": "beef, chicken, vegetarian",
+    "@beef": {
+      "description": "dish description options",
+      "type": "text",
+      "placeholders": {}
+    },
+
+  "orderNow": "Order Now                 ",
+  "@orderNow": {
+    "description": "dish order now",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "allergens": "Allergens",
+  "@allergens": {
+    "description": "dish allergens",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "lactose": "Lactose",
+  "@lactose": {
+    "description": "dish allergens lactose",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "price": "Price:",
+  "@price": {
+    "description": "dish allergens lactose",
+    "type": "text",
+    "placeholders": {}
+  }
+}
